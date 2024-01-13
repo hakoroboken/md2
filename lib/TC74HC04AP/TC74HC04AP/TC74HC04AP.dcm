@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC74HC04AP
+D Inverters NHS2-DIP,DISCON(07-10)/PHASE-OUT(10-04)/OBSOLETE(10-07),
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=7347&prodName=TC74HC04AP
+$ENDCMP
+#
+#End Doc Library

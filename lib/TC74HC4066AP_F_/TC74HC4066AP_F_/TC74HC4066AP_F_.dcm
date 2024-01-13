@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC74HC4066AP_F_
+D IC, 74 high speed CMOS logic, TC74HC4066 Toshiba TC74HC4066AP(F), Multiplexer Quad SPST, 3 V, 5 V, 9 V, 14-Pin PDIP
+K
+F http://uk.rs-online.com/web/p/products/5400326
+$ENDCMP
+#
+#End Doc Library

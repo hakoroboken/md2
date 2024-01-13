@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "953-1C-12DG-1")(type "KiCad")(uri "${KIPRJMOD}/lib/953-1C-12DG-1/953-1C-12DG-1/953-1C-12DG-1.kicad_sym")(options "")(descr ""))
+  (lib (name "TB6643KQ")(type "KiCad")(uri "${KIPRJMOD}/lib/TB6643KQ/TB6643KQ/TB6643KQ.kicad_sym")(options "")(descr ""))
+  (lib (name "TC74HC04AP")(type "KiCad")(uri "${KIPRJMOD}/lib/TC74HC04AP/TC74HC04AP/TC74HC04AP.kicad_sym")(options "")(descr ""))
+  (lib (name "TC74HC4066AP_F_")(type "KiCad")(uri "${KIPRJMOD}/lib/TC74HC4066AP_F_/TC74HC4066AP_F_/TC74HC4066AP_F_.kicad_sym")(options "")(descr ""))
+  (lib (name "XT30PW-M")(type "KiCad")(uri "${KIPRJMOD}/lib/XT30PW-M/XT30PW-M/XT30PW-M.kicad_sym")(options "")(descr ""))
+)

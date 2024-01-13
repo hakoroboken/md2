@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TB6643KQ
+D IC MOTOR DRIVER 10V-45V 7HSIP
+K
+F https://toshiba.semicon-storage.com/ap-en/semiconductor/product/motor-driver-ics/brushed-dc-motor-driver-ics/detail.TB6643KQ.html
+$ENDCMP
+#
+#End Doc Library
