@@ -8,4 +8,5 @@
   (lib (name "Connector_AMASS")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_AMASS.pretty")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
   (lib (name "led")(type "KiCad")(uri "${KIPRJMOD}/led.pretty")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO KICAD")(type "KiCad")(uri "${KIPRJMOD}/lib/Seeeduino XIAO KICAD")(options "")(descr ""))
 )
