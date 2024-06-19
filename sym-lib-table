@@ -6,4 +6,5 @@
   (lib (name "TC74HC4066AP_F_")(type "KiCad")(uri "${KIPRJMOD}/lib/TC74HC4066AP_F_/TC74HC4066AP_F_/TC74HC4066AP_F_.kicad_sym")(options "")(descr ""))
   (lib (name "XT30PW-M")(type "KiCad")(uri "${KIPRJMOD}/lib/XT30PW-M/XT30PW-M/XT30PW-M.kicad_sym")(options "")(descr ""))
   (lib (name "Seeeduino XIAO")(type "Legacy")(uri "${KIPRJMOD}/lib/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name "4609M-101-103LF")(type "KiCad")(uri "${KIPRJMOD}/lib/4609M-101-103LF/4609M-101-103LF.kicad_sym")(options "")(descr ""))
 )

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4609M-101-103LF
+D BOURNS - 4609M-101-103LF - RESISTOR, BUSSED RESISTOR NETWORK, 8, 10KOHM, 2%, SIP
+K
+F https://www.bourns.com/pdfs/4600M.pdf
+$ENDCMP
+#
+#End Doc Library
