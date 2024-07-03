@@ -7,4 +7,5 @@
   (lib (name "XT30PW-M")(type "KiCad")(uri "${KIPRJMOD}/lib/XT30PW-M/XT30PW-M/XT30PW-M.kicad_sym")(options "")(descr ""))
   (lib (name "Seeeduino XIAO")(type "Legacy")(uri "${KIPRJMOD}/lib/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
   (lib (name "4609M-101-103LF")(type "KiCad")(uri "${KIPRJMOD}/lib/4609M-101-103LF/4609M-101-103LF.kicad_sym")(options "")(descr ""))
+  (lib (name "3557-15")(type "KiCad")(uri "${KIPRJMOD}/lib/3557-15/3557-15.kicad_sym")(options "")(descr ""))
 )
